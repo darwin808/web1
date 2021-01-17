@@ -1,0 +1,78 @@
+.body6{
+    height: 100vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-body6{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    margin: 15rem auto 4rem auto;
+}
+
+.para1-body6{
+    font-size: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.para2-body6{
+    margin-bottom: 1.5rem;
+}
+
+.btn-holder{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.input1{
+    margin-right: 10px;
+}
+
+.body-body6{
+    display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+
+}
+
+.about-foo{
+    font-size: 1.5rem;
+    margin-bottom: .5rem;
+}
+.foochild{
+    font-size: 13px;
+    margin-bottom: .5rem;
+}
+
+.foo-body6{
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.foo-subheader{
+    font-size: 15px;
+}
+.foo-header{
+    font-size: 2rem;
+}
+
+.socmedia{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.fab{
+    margin: auto 1rem;
+}

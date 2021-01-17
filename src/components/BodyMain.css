@@ -1,0 +1,4 @@
+.BodyMain{
+    display: flex;
+    flex-direction: column;
+}

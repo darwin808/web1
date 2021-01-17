@@ -1,0 +1,50 @@
+.Body1{
+    margin: 15rem 2rem 1rem 2rem;
+    display: flex;
+    height: 100vh;
+   
+}
+
+.left-content{
+    flex-basis: 100%;
+ 
+}
+
+.right-content{
+    flex-basis: 100%;
+ text-align: center;
+        align-items: center;
+        justify-content: center
+
+}
+
+.body1-para1{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 10px;
+}
+.body1-para2{
+    font-size: 3rem;
+}
+
+.body1-para3{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.svg1{
+    height: 400px;
+}
+
+.btn2{
+   
+ padding: 1rem 2rem;
+ text-align: center;
+  background-color: #665df5;
+  border-radius: 5px;
+  color: white;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
